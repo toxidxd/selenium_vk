@@ -26,4 +26,3 @@ except Exception as exc:
 finally:
     driver.close()
     driver.quit()
-
